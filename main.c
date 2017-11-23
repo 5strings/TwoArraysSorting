@@ -20,7 +20,7 @@ int main() {
     }
     
     
-    printf("Enter secod 5 array values: \n");
+    printf("Enter second 5 array values: \n");
     
     for (i=0; i<5; i++) {
         scanf("%d", &b[i]);
